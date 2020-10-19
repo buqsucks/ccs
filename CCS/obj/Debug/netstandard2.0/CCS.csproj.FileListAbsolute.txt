@@ -1,0 +1,9 @@
+C:\Users\stake\source\repos\CCS\CCS\bin\Debug\netstandard2.0\CCS.deps.json
+C:\Users\stake\source\repos\CCS\CCS\bin\Debug\netstandard2.0\CCS.dll
+C:\Users\stake\source\repos\CCS\CCS\bin\Debug\netstandard2.0\CCS.pdb
+C:\Users\stake\source\repos\CCS\CCS\obj\Debug\netstandard2.0\CCS.csprojAssemblyReference.cache
+C:\Users\stake\source\repos\CCS\CCS\obj\Debug\netstandard2.0\CCS.AssemblyInfoInputs.cache
+C:\Users\stake\source\repos\CCS\CCS\obj\Debug\netstandard2.0\CCS.AssemblyInfo.cs
+C:\Users\stake\source\repos\CCS\CCS\obj\Debug\netstandard2.0\CCS.csproj.CoreCompileInputs.cache
+C:\Users\stake\source\repos\CCS\CCS\obj\Debug\netstandard2.0\CCS.dll
+C:\Users\stake\source\repos\CCS\CCS\obj\Debug\netstandard2.0\CCS.pdb
